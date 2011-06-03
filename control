@@ -1,0 +1,9 @@
+Package: com.rpetrich.pagepusher
+Priority: optional
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 0.1
+Description: Page-styled app animations
+Name: PagePusher
+Depends: firmware (>= 4.0), mobilesubstrate
+Author: Ryan Petrich
